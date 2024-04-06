@@ -1,0 +1,2286 @@
+fileFormatVersion: 2
+guid: 7a28b1f8e55ff0e46a2371be071fdab6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tank1990_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e71d75445b474f8fb3152a6d6731d
+      internalID: 585172132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6a9b7a0ab3d64d8e7d0ae5dd55310
+      internalID: -2039278590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75421e2ab413dd649b37204b5a32a247
+      internalID: 198726368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44a6c46537f8ee449c1262b8af27edb
+      internalID: 1612712816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a88c3ce7f0df664982c794b1968d788
+      internalID: 516410298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44691e7255820fd4abecf4ebdf0456df
+      internalID: -134044970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be954d67af8026243bc17fa3388b9bdb
+      internalID: -149687367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea90ff1c2a6ac348862b5abfe227011
+      internalID: 1430169658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb81ad9c5cef98142bc72fbdf129d8de
+      internalID: 370425155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b249d2ca664db4582376f8e1e6527d
+      internalID: -109611361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93009969414d79b4eb385497124ccca2
+      internalID: 213038854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0815bee3a7acc164bb86ef38f6064586
+      internalID: 674389402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad487d01eac36a04ca4c3e9a467ee89f
+      internalID: 1608755652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e038509e4846dc54482d4f4c7a477170
+      internalID: -104352751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974c096e433d99947bc9dd593bcb6155
+      internalID: 740698321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c75e9af057699e4ea298500cfa948b5
+      internalID: -47606720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b55491fab6ea8644bb3936d6f3500dd
+      internalID: 43325193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565600e53cdca0442a5ed518468e23e7
+      internalID: 524134940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38be53636e78ca642be733a8caed348a
+      internalID: -893279265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e19cc43ed28c446bcbbd3f4ec04139
+      internalID: -90356404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deaa751db5a0124d8d97e5a6b211b5c
+      internalID: 720578049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aedf6352226ea4c8500a5cd63a2207
+      internalID: -890153054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aeea0c05ec66c4aa9fb1598eb5ed3f
+      internalID: -1775199153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9194c2e023321d408934bd1c6aacfa7
+      internalID: 648067904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f55e724c3757134dbad456c663e20a8
+      internalID: 1150401560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe3fccb62cd00499f4a87b6471211f
+      internalID: 1840264049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a590b2d3dd9f249a210aae68a9eb3f
+      internalID: 1020206341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb42bda9508e4f478961137aae0ffe2
+      internalID: -1058477801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_139
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7a984db9607ad47b84fb81bfe6d66b
+      internalID: 1329980832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca5b0768b9cb2a4aaa54f9004324d93
+      internalID: 1141266797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8442331d5ab14a93b1ee999931151
+      internalID: 530681808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_147
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c64abe3999e83844be399879819a500
+      internalID: 1983166559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5686dd719247ee4ca9a5f1f075a9a15
+      internalID: -1224182145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_191
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a02070ef8f5a343953fe3ccc796d88
+      internalID: 1555203895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_195
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3799a52101f1cd0418a0141d68bc87d7
+      internalID: -829738668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_199
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739d4a985ad45f49817f3526d702474
+      internalID: 135575789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_285
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea86b7facba6c9458d7de0e3180db63
+      internalID: 1215624689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_287
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cfe51c71ab78f4692df9584816f690
+      internalID: 638312947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_289
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d2ec2f137e9d04380a0be1a1ff6d39
+      internalID: 2053635937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_291
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb569d53264914e92431c07c9de2ec
+      internalID: -895558199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_293
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb5b5c2d42e6cd48a22ab570920a4b8
+      internalID: -902450957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_295
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61322a2f1266417428679b69e6e0f086
+      internalID: 1117846419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_297
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc98b61de556194a9261469809459ce
+      internalID: -1572299639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_299
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2878e665e40fb30428b1f671d076e767
+      internalID: -1127976829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_301
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d69091f3689fc4688f440bd697b775
+      internalID: 529877014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_303
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0917c305571dadb469e6995d7ccb5b00
+      internalID: -186783796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_305
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b70fc2ee58c6d24aab62133d1e379f0
+      internalID: 1566049684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_307
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabab93ad970aaf4b9ffd31e77b2292a
+      internalID: -617354972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_308
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fd9f56b1de8e14f99f06e3e9dec7a5
+      internalID: 1481107225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_310
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b5929e0ddbbe44cbb24c1fb10524f7
+      internalID: 1051116576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_312
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eac2ea9e2466e47a6e9ef644466b36
+      internalID: -2140559767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_314
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ad1e775059a1d4da86fec53109f154
+      internalID: 1965818870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_316
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56684a51c8dfddd42a40a28b5c8c0e91
+      internalID: -134921942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_318
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350ee7caec8528143922378503ffced6
+      internalID: -1599688818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_320
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028d801ce3a69d84399829409a7ecd4c
+      internalID: 1021075384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_322
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e043d612a6587554194dbe7d8cd03643
+      internalID: -1427121199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_324
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44d0bb3d935be04994c75b8552f4fec
+      internalID: 22672710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_326
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77e7344ed0750419cce2976289bd68
+      internalID: 1878435999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_328
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b758031113d91bb44a24428f1ef1506b
+      internalID: 148666763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_330
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752d241fdc5170542b9969b79da02ec0
+      internalID: 115319413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_332
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d21923dd24a5944f82b31d4cdbc8b0d
+      internalID: 337627034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_334
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b38891fb0c8b8144855ccce5689bd0e
+      internalID: -1689919657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_387
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8030f3521bff464e9e7bdb1b90e9edd
+      internalID: -1267566660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_389
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463cba355a1e70d45b7ff328dbff8d85
+      internalID: -1263553643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_391
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24135a958ad31524593b8caeacda14e2
+      internalID: 264839705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_393
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f25b0e143e45594bb2419fd1acd6e95
+      internalID: 1502744403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_395
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e5dd8807c76cb48b800c94f9f81133
+      internalID: 1966646794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_397
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d94b900f74b74244aa042f89bd3d457
+      internalID: -1580671245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_399
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b9a9c5f3b8a2e4583f156564606914
+      internalID: 1385436760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_401
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622541435634cdc48861ba40e057b88e
+      internalID: 1835207637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_403
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690bd67d7f1951a4b96caa069471b8dc
+      internalID: 2100019903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_405
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc927a059b45b9b4eabbf6f4a352fdf7
+      internalID: -724121956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_407
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97baf8944d38f69469f9a8380e94cf36
+      internalID: -1804164657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_409
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fbd69afe672924b9f5f8017275582a
+      internalID: 740584748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_411
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c1412c3c5a24c4ab9f8335c65a90d7
+      internalID: 2072749847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_413
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a932adae92ee046ac3472637de150e
+      internalID: -1590020174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_415
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddf03fd21d342e469792065fe72706e
+      internalID: 978853189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_443
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e496eec7af261249a425dcfdaa15b45
+      internalID: -1426074708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_446
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0e231424adeb141a9058107d3c67e9
+      internalID: -1945985053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_455
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa9df63c24e810469557f093e190753
+      internalID: 828280280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank1990_456
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76824972814d8488418bd7372f8864
+      internalID: -1763607975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tank1990_0: 585172132
+      tank1990_1: -2039278590
+      tank1990_10: -1763083654
+      tank1990_100: -1713796916
+      tank1990_101: 1052165817
+      tank1990_102: -1814421774
+      tank1990_103: -1782977756
+      tank1990_104: 1734428397
+      tank1990_105: -1170627086
+      tank1990_106: 1627720768
+      tank1990_107: -1383857710
+      tank1990_108: 252190644
+      tank1990_109: 2010527705
+      tank1990_11: -109611361
+      tank1990_110: -1738749852
+      tank1990_111: -613812173
+      tank1990_112: 576871202
+      tank1990_113: 156486419
+      tank1990_114: 132457780
+      tank1990_115: -2096649088
+      tank1990_116: -1543749816
+      tank1990_117: 133926868
+      tank1990_118: -1837439677
+      tank1990_119: 157970815
+      tank1990_12: 601720187
+      tank1990_120: -1048299271
+      tank1990_121: 1111117961
+      tank1990_122: -1824653951
+      tank1990_123: 1006539571
+      tank1990_124: 216817813
+      tank1990_125: 610497223
+      tank1990_126: 1110825615
+      tank1990_127: 60956656
+      tank1990_128: -2078152167
+      tank1990_129: 1856343304
+      tank1990_13: 213038854
+      tank1990_130: 508736668
+      tank1990_131: 1089601877
+      tank1990_132: -1424085488
+      tank1990_133: -1895418924
+      tank1990_134: -404850892
+      tank1990_135: 354178803
+      tank1990_136: -870460519
+      tank1990_137: -1058477801
+      tank1990_138: -1312992151
+      tank1990_139: 1329980832
+      tank1990_14: 674389402
+      tank1990_140: 799886136
+      tank1990_141: 1141266797
+      tank1990_142: 330926022
+      tank1990_143: 530681808
+      tank1990_144: -1001958855
+      tank1990_145: -387243696
+      tank1990_146: -1021466936
+      tank1990_147: 1983166559
+      tank1990_148: 427598463
+      tank1990_149: -1902017092
+      tank1990_15: -819496262
+      tank1990_150: 491849247
+      tank1990_151: -1743676822
+      tank1990_152: -1396735740
+      tank1990_153: 1499875053
+      tank1990_154: 895612182
+      tank1990_155: -840907369
+      tank1990_156: -287830769
+      tank1990_157: -393604000
+      tank1990_158: -738920072
+      tank1990_159: -95274195
+      tank1990_16: 479994481
+      tank1990_160: -403091142
+      tank1990_161: -1781086496
+      tank1990_162: 772402986
+      tank1990_163: -2039808245
+      tank1990_164: 2024855844
+      tank1990_165: 336744219
+      tank1990_166: -1337823455
+      tank1990_167: -683748108
+      tank1990_168: -293431511
+      tank1990_169: 922878848
+      tank1990_17: -879103987
+      tank1990_170: -2056215100
+      tank1990_171: -1486405737
+      tank1990_172: -1453645104
+      tank1990_173: 930348199
+      tank1990_174: -1221883234
+      tank1990_175: 135570608
+      tank1990_176: 146783654
+      tank1990_177: 1332364543
+      tank1990_178: -1771125947
+      tank1990_179: 77530368
+      tank1990_18: -203729187
+      tank1990_180: 1998522568
+      tank1990_181: -464000293
+      tank1990_182: 1905645182
+      tank1990_183: 1468485432
+      tank1990_184: -891247397
+      tank1990_185: 1886519288
+      tank1990_186: 108242830
+      tank1990_187: -1224182145
+      tank1990_188: 134323419
+      tank1990_189: -919876518
+      tank1990_19: 1608755652
+      tank1990_190: -1876228680
+      tank1990_191: 1555203895
+      tank1990_192: 491303789
+      tank1990_193: 1109734143
+      tank1990_194: -2015416411
+      tank1990_195: -829738668
+      tank1990_196: 974145013
+      tank1990_197: -1895041141
+      tank1990_198: -281461910
+      tank1990_199: 135575789
+      tank1990_2: 198726368
+      tank1990_20: -1503922220
+      tank1990_200: -664823976
+      tank1990_201: -1713139600
+      tank1990_202: -629594691
+      tank1990_203: 2141335406
+      tank1990_204: 426595314
+      tank1990_205: -491555482
+      tank1990_206: 81948210
+      tank1990_207: 156154309
+      tank1990_208: 1591844724
+      tank1990_209: -1778573382
+      tank1990_21: 2137896356
+      tank1990_210: 2023838082
+      tank1990_211: -1356559224
+      tank1990_212: -86100963
+      tank1990_213: 707008709
+      tank1990_214: -2111020987
+      tank1990_215: -1382412798
+      tank1990_216: -857425747
+      tank1990_217: 4430438
+      tank1990_218: -1710412023
+      tank1990_219: -80627433
+      tank1990_22: -104352751
+      tank1990_220: 519882765
+      tank1990_221: 1455471647
+      tank1990_222: -38652483
+      tank1990_223: 699603526
+      tank1990_224: -1286045174
+      tank1990_225: 1552211621
+      tank1990_226: -1399306187
+      tank1990_227: -1021124210
+      tank1990_228: -1185061210
+      tank1990_229: 2107828978
+      tank1990_23: -925682172
+      tank1990_230: -1367019465
+      tank1990_231: -1696908647
+      tank1990_232: -752182796
+      tank1990_233: -704573166
+      tank1990_234: 806018394
+      tank1990_235: -1383385715
+      tank1990_236: 1602027021
+      tank1990_237: -1704432824
+      tank1990_238: -183381939
+      tank1990_239: -1390148711
+      tank1990_24: 213385717
+      tank1990_240: -1848226270
+      tank1990_241: 791281555
+      tank1990_242: -372059049
+      tank1990_243: 82924614
+      tank1990_244: 1459824777
+      tank1990_245: -1242116090
+      tank1990_246: 1536942148
+      tank1990_247: -1434562818
+      tank1990_248: 40820879
+      tank1990_249: -234378108
+      tank1990_25: 296801557
+      tank1990_250: -336737598
+      tank1990_251: 1699242364
+      tank1990_252: -1505785791
+      tank1990_253: -574669909
+      tank1990_254: -918479184
+      tank1990_255: 2044902168
+      tank1990_256: 504075156
+      tank1990_257: -1833471062
+      tank1990_258: 2099643043
+      tank1990_259: -418852331
+      tank1990_26: 740698321
+      tank1990_260: -1725941870
+      tank1990_261: -1406630754
+      tank1990_262: -1131500715
+      tank1990_263: 52687945
+      tank1990_264: -15461923
+      tank1990_265: 1527277386
+      tank1990_266: 1434587305
+      tank1990_267: -1721699864
+      tank1990_268: -341570030
+      tank1990_269: -2062004676
+      tank1990_27: 633875583
+      tank1990_270: -489175896
+      tank1990_271: -2097653872
+      tank1990_272: 408448938
+      tank1990_273: -188971264
+      tank1990_274: 1523373963
+      tank1990_275: -686499601
+      tank1990_276: -619101563
+      tank1990_277: -316914852
+      tank1990_278: -872506197
+      tank1990_279: -61858202
+      tank1990_28: 1860346089
+      tank1990_280: -2125154140
+      tank1990_281: -1600258683
+      tank1990_282: 450482125
+      tank1990_283: 1381074182
+      tank1990_284: -1367079090
+      tank1990_285: 1215624689
+      tank1990_286: 1262946572
+      tank1990_287: 638312947
+      tank1990_288: 69555953
+      tank1990_289: 2053635937
+      tank1990_29: 705147989
+      tank1990_290: -57047528
+      tank1990_291: -895558199
+      tank1990_292: 1414459036
+      tank1990_293: -902450957
+      tank1990_294: -682777730
+      tank1990_295: 1117846419
+      tank1990_296: -234928907
+      tank1990_297: -1572299639
+      tank1990_298: 569007693
+      tank1990_299: -1127976829
+      tank1990_3: 1612712816
+      tank1990_30: -47606720
+      tank1990_300: -1600950197
+      tank1990_301: 529877014
+      tank1990_302: -1042182424
+      tank1990_303: -186783796
+      tank1990_304: 1648630679
+      tank1990_305: 1566049684
+      tank1990_306: -22251427
+      tank1990_307: -617354972
+      tank1990_308: 1481107225
+      tank1990_309: -717769934
+      tank1990_31: 43325193
+      tank1990_310: 1051116576
+      tank1990_311: -190622760
+      tank1990_312: -2140559767
+      tank1990_313: 858884857
+      tank1990_314: 1965818870
+      tank1990_315: -2068607401
+      tank1990_316: -134921942
+      tank1990_317: 1168703931
+      tank1990_318: -1599688818
+      tank1990_319: 1786192092
+      tank1990_32: 524134940
+      tank1990_320: 1021075384
+      tank1990_321: 310329990
+      tank1990_322: -1427121199
+      tank1990_323: -1791933578
+      tank1990_324: 22672710
+      tank1990_325: 1322023557
+      tank1990_326: 1878435999
+      tank1990_327: 939958408
+      tank1990_328: 148666763
+      tank1990_329: -874954563
+      tank1990_33: -893279265
+      tank1990_330: 115319413
+      tank1990_331: 339325657
+      tank1990_332: 337627034
+      tank1990_333: 2119939085
+      tank1990_334: -1689919657
+      tank1990_335: -1072004960
+      tank1990_336: 1937118608
+      tank1990_337: 797157528
+      tank1990_338: -1408134216
+      tank1990_339: 1507572396
+      tank1990_34: -90356404
+      tank1990_340: 1759728177
+      tank1990_341: -673687524
+      tank1990_342: 968782489
+      tank1990_343: -957818895
+      tank1990_344: 1699474619
+      tank1990_345: 558666968
+      tank1990_346: 351308538
+      tank1990_347: -74421327
+      tank1990_348: -139693172
+      tank1990_349: 1282196719
+      tank1990_35: 720578049
+      tank1990_350: -282215503
+      tank1990_351: 1493482810
+      tank1990_352: 608745403
+      tank1990_353: -467090082
+      tank1990_354: 1564155585
+      tank1990_355: -1850953825
+      tank1990_356: -1871938420
+      tank1990_357: 959198827
+      tank1990_358: 1398788702
+      tank1990_359: -1181924138
+      tank1990_36: -890153054
+      tank1990_360: 464444465
+      tank1990_361: 2026701948
+      tank1990_362: -226824611
+      tank1990_363: 612112393
+      tank1990_364: -1305424059
+      tank1990_365: -537361411
+      tank1990_366: 1250217320
+      tank1990_367: -1331832222
+      tank1990_368: 1249231887
+      tank1990_369: -679445908
+      tank1990_37: -1775199153
+      tank1990_370: -1210242722
+      tank1990_371: -1494064660
+      tank1990_372: 1360566527
+      tank1990_373: 2004860582
+      tank1990_374: 673953340
+      tank1990_375: -57402794
+      tank1990_376: 314444937
+      tank1990_377: 660317656
+      tank1990_378: 325818959
+      tank1990_379: -2014994882
+      tank1990_38: 1277529980
+      tank1990_380: -1745259789
+      tank1990_381: -1166172752
+      tank1990_382: -1101578513
+      tank1990_383: -179499585
+      tank1990_384: -140832496
+      tank1990_385: -428994480
+      tank1990_386: -1258737747
+      tank1990_387: -1267566660
+      tank1990_388: 1953566522
+      tank1990_389: -1263553643
+      tank1990_39: 1276796919
+      tank1990_390: -245029839
+      tank1990_391: 264839705
+      tank1990_392: 1785494102
+      tank1990_393: 1502744403
+      tank1990_394: -503811557
+      tank1990_395: 1966646794
+      tank1990_396: 1939086642
+      tank1990_397: -1580671245
+      tank1990_398: -28644313
+      tank1990_399: 1385436760
+      tank1990_4: 516410298
+      tank1990_40: -1637529602
+      tank1990_400: 836757486
+      tank1990_401: 1835207637
+      tank1990_402: 424958063
+      tank1990_403: 2100019903
+      tank1990_404: 2066180565
+      tank1990_405: -724121956
+      tank1990_406: -1375532905
+      tank1990_407: -1804164657
+      tank1990_408: -774470106
+      tank1990_409: 740584748
+      tank1990_41: -549220011
+      tank1990_410: -2084796553
+      tank1990_411: 2072749847
+      tank1990_412: 478696283
+      tank1990_413: -1590020174
+      tank1990_414: -1575209755
+      tank1990_415: 978853189
+      tank1990_416: -1399640848
+      tank1990_417: 1037300503
+      tank1990_418: -1543945513
+      tank1990_419: 984365087
+      tank1990_42: 1950159871
+      tank1990_420: 2000761912
+      tank1990_421: 1471351632
+      tank1990_422: -1163364026
+      tank1990_423: -1715992824
+      tank1990_424: -1205478841
+      tank1990_425: -36677984
+      tank1990_426: 2027493326
+      tank1990_427: -926219041
+      tank1990_428: -484771634
+      tank1990_429: -573948167
+      tank1990_43: -1309279864
+      tank1990_430: -1868332855
+      tank1990_431: -268185698
+      tank1990_432: -500506844
+      tank1990_433: 1252674052
+      tank1990_434: 197788624
+      tank1990_435: -1781212879
+      tank1990_436: -359964397
+      tank1990_437: 241488034
+      tank1990_438: -1136200044
+      tank1990_439: -1781737059
+      tank1990_44: 1271304171
+      tank1990_440: 1217232297
+      tank1990_441: 1766087929
+      tank1990_442: 2062559432
+      tank1990_443: -1426074708
+      tank1990_444: 1794378857
+      tank1990_445: -1407088576
+      tank1990_446: -1945985053
+      tank1990_447: -203651840
+      tank1990_448: -844670804
+      tank1990_449: -351082407
+      tank1990_45: 825799553
+      tank1990_450: 551006159
+      tank1990_451: -748294212
+      tank1990_452: 2019102858
+      tank1990_453: -636116910
+      tank1990_454: -214132442
+      tank1990_455: 828280280
+      tank1990_456: -1763607975
+      tank1990_457: 1015207683
+      tank1990_46: 2023254106
+      tank1990_47: 1411654463
+      tank1990_48: 459922524
+      tank1990_49: 1691808670
+      tank1990_5: -134044970
+      tank1990_50: -1241201662
+      tank1990_51: 2072287938
+      tank1990_52: 245318377
+      tank1990_53: -35432973
+      tank1990_54: -1243895924
+      tank1990_55: 2089319371
+      tank1990_56: -54303443
+      tank1990_57: -2107177431
+      tank1990_58: -605624354
+      tank1990_59: 648067904
+      tank1990_6: -149687367
+      tank1990_60: -919606834
+      tank1990_61: -2135597546
+      tank1990_62: -144819138
+      tank1990_63: 1150401560
+      tank1990_64: -403019319
+      tank1990_65: 762146506
+      tank1990_66: -1425363782
+      tank1990_67: 1840264049
+      tank1990_68: 980491618
+      tank1990_69: 696723709
+      tank1990_7: 1430169658
+      tank1990_70: -1633681095
+      tank1990_71: 1020206341
+      tank1990_72: -1530869447
+      tank1990_73: -1977873272
+      tank1990_74: -475713042
+      tank1990_75: 1807172040
+      tank1990_76: 2065832550
+      tank1990_77: 618873933
+      tank1990_78: 777014692
+      tank1990_79: -1417527398
+      tank1990_8: -1813555013
+      tank1990_80: 2133652515
+      tank1990_81: -131114564
+      tank1990_82: 1933584042
+      tank1990_83: -1958748396
+      tank1990_84: -181896060
+      tank1990_85: -605798918
+      tank1990_86: -606744263
+      tank1990_87: -1074398509
+      tank1990_88: -928752544
+      tank1990_89: -1660239204
+      tank1990_9: 370425155
+      tank1990_90: -419627840
+      tank1990_91: 21076458
+      tank1990_92: -363206703
+      tank1990_93: -1698180451
+      tank1990_94: 2141177675
+      tank1990_95: 535296982
+      tank1990_96: -94648373
+      tank1990_97: -49346757
+      tank1990_98: 752322358
+      tank1990_99: 1716255349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

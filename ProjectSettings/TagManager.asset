@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Crossroad
+  - Block
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Water
+    uniqueID: 803629869
+    locked: 0
+  - name: Enemy
+    uniqueID: 2545446795
+    locked: 0
+  - name: Players
+    uniqueID: 660013613
+    locked: 0
+  - name: Greenery
+    uniqueID: 2041487263
+    locked: 0
+  - name: Boundaries
+    uniqueID: 1968263409
+    locked: 0
+  - name: Enemy
+    uniqueID: 228569867
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Menu
+    uniqueID: 20512699
+    locked: 0
+  - name: TV
+    uniqueID: 2528930835
+    locked: 0
